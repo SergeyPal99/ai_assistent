@@ -2,7 +2,7 @@
 Ссылка на проект @ElektroSvet_bot
 
 Скриншоты приложения
-https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2001.JPG
+[Скриншот 1] (https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2001.JPG)
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2002.JPG?raw=true
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2003.JPG?raw=true
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2004.JPG?raw=true
