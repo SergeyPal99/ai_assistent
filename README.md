@@ -3,7 +3,7 @@
 
 Скриншоты приложения
 ![Иллюстрация к проекту](https://raw.githubusercontent.com/SergeyPal99/ai_assistent/refs/heads/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2001.png)
-https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2002.JPG?raw=true
+![Иллюстрация к проекту](https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2002.JPG?raw=true)
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2003.JPG?raw=true
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2004.JPG?raw=true
 https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2005.JPG?raw=true
