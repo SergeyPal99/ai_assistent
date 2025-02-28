@@ -1,6 +1,6 @@
 # ИИ-ассистент для электромонтажной организации
 
-![Ссылка на проект]([https://t.me/ElektroSvet_bot)
+![Ссылка на проект](https://t.me/ElektroSvet_bot)
 
 Скриншоты приложения
 ![Иллюстрация к проекту 1](https://raw.githubusercontent.com/SergeyPal99/ai_assistent/refs/heads/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2001.png)
@@ -12,7 +12,6 @@
 ![Иллюстрация к проекту 7](https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2007.JPG)
 ![Иллюстрация к проекту 8](https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2008.JPG)
 ![Иллюстрация к проекту 9](https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2009.JPG)
-![Иллюстрация к проекту 9](https://github.com/SergeyPal99/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2009.JPG?raw=true)
 
 Этот проект представляет собой интеллектуального ассистента, созданного специально для электромонтажной организации. Ассистент способен эффективно взаимодействовать с клиентами, предоставляя необходимую информацию и упрощая процесс записи на встречи.
 
