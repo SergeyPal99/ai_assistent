@@ -1,5 +1,5 @@
 # ИИ-ассистент для электромонтажной организации
-![Ссылка на проект](@ElektroSvet_bot)
+![Ссылка на проект]([https://t.me/ElektroSvet_bot)
 
 Скриншоты приложения
 ![Иллюстрация к проекту 1](https://raw.githubusercontent.com/SergeyPal99/ai_assistent/refs/heads/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2001.png)
